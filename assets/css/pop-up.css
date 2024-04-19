@@ -1,0 +1,14 @@
+.pop-up{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+  width: 300px;
+  height: 180px;
+  padding: .25rem;
+  border: solid 1px #4c4d4f;
+  background: #f5812a;
+  display: none;
+}
