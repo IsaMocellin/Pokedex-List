@@ -13,7 +13,7 @@ Este é um projeto de listagem de Pokémon desenvolvido em JavaScript, utilizand
 1. Clone este repositório em sua máquina local:
 
 ```
-git clone https://github.com/seu-usuario/listagem-pokemon.git
+git clone https://github.com/IsaMocellin/Pokedex-List.git
 ```
 
 2. Navegue até o diretório do projeto:
